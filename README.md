@@ -3,13 +3,18 @@
 This repository contains my solutions to various Python programming problems solved on HackerRank.  
 The goal of this repository is to strengthen problem-solving skills, Python programming concepts, and data structure understanding.
 
-## Problems Included
+## Problems Solved
 
-1. The Minion Game  
-2. Merge the Tools  
-3. Designer Door Mat  
-4. Exceptions  
-5. Find the Runner-Up Score  
+### Strings
+- The Minion Game
+- Merge the Tools
+- Designer Door Mat
+
+### Lists
+- Find the Runner-Up Score
+
+### Exception Handling
+- Exceptions
 
 More solutions will be added regularly as part of my continuous coding practice.
 
