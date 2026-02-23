@@ -1,3 +1,11 @@
+"""You are given a non-empty set s and a number of commands.
+Each command performs one of the following operations:
+pop() → Removes an arbitrary element from the set.
+remove(x) → Removes element x from the set. Raises error if not present.
+discard(x) → Removes element x if present. Does nothing if not present.
+After executing all commands, print the sum of elements remaining in the set."""
+
+
 n = int(input())
 s = set(map(int, input().split()))
 N = int(input())
