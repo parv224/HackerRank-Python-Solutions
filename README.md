@@ -12,6 +12,7 @@ The goal of this repository is to strengthen problem-solving skills, Python prog
 
 ### Lists
 - Find the Runner-Up Score
+- Set_.Remove_.Pop_.discard
 
 ### Exception Handling
 - Exceptions
