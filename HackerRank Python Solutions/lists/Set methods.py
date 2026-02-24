@@ -20,3 +20,13 @@ for _ in range(N):
         s.discard(int(command[1]))
 
 print(sum(s))
+
+## Set.add() ##
+
+n = int(input())
+countries = set()
+
+for _ in range(n):
+    countries.add(input())
+
+print(len(countries))
