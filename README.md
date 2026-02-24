@@ -14,6 +14,9 @@ The goal of this repository is to strengthen problem-solving skills, Python prog
 - Find the Runner-Up Score
 - Set_.Remove_.Pop_.discard
 
+### Dictionary
+- Finding the Percentage
+
 ### Exception Handling
 - Exceptions
 
