@@ -20,6 +20,9 @@ The goal of this repository is to strengthen problem-solving skills, Python prog
 ### Exception Handling
 - Exceptions
 
+### Functions
+- Hex color code
+
 More solutions will be added regularly as part of my continuous coding practice.
 
 ## Topics Covered
