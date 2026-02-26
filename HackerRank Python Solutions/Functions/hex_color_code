@@ -1,0 +1,10 @@
+## HEX COLOR CODE ##
+
+import random
+
+def generate_hex_color():
+    hex_color_code = '#{:06x}'.format(random.randint(0, 0xFFFFFF))
+    return hex_color_code
+
+# Example usage:
+print(generate_hex_color())
